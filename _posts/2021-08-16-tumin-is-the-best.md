@@ -5,7 +5,7 @@ title: Tumin tries jekyll
 subtitle: "this is fun "
 description: this is so much fun!
 image: https://johnmayer.com/dist/img/artwork-sobrock.png
-optimized_image: null
+optimized_image: https://johnmayer.com/dist/img/artwork-sobrock.png
 category: music
 tags:
   - music
