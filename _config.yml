@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Tumin
+title: Tumin | Demo
+description: hello I make things with tech
 tags:
   - blog
   - template
@@ -19,9 +18,9 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: t.sheth33@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: tuminzee
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -39,7 +38,7 @@ medium_username: medium_username
 
 # Posts Settings
 show_time_bar: true
-show_modal_on_exit: false
+show_modal_on_exit: true
 show_modal_on_finish_post: true
 two_columns_layout: true
 
