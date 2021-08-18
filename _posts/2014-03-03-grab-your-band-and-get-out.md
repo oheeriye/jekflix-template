@@ -8,9 +8,7 @@ image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqs
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824822/theme15_oqsl4z.jpg
 category: music
 tags:
-  - music
-  - band
-  - passion
+  - work
 author: thiagorossener
 ---
 

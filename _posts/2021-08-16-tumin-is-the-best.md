@@ -6,9 +6,9 @@ subtitle: "this is fun "
 description: this is so much fun!
 image: https://johnmayer.com/dist/img/artwork-sobrock.png
 optimized_image: https://johnmayer.com/dist/img/artwork-sobrock.png
-category: music
+category: work
 tags:
-  - music
+  - work
 author: thiagorossener
 paginate: false
 ---

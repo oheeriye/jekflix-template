@@ -13,7 +13,6 @@ optimized_image: >-
 category: blog
 tags:
   - welcome
-  - blog
 author: thiagorossener
 paginate: true
 ---

@@ -9,7 +9,6 @@ optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380
 category: work
 tags:
   - work
-  - career
 author: thiagorossener
 ---
 
