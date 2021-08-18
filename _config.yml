@@ -16,8 +16,10 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Old
-    url: /old
+  - title: TV
+    url: /tv
+  - title: Profile
+    url: /profile
   - title: Feed
     url: /feed.xml
   
